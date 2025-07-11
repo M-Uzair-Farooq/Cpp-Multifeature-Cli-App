@@ -1,7 +1,7 @@
 
 # 🎵🔢 Multi-Feature CLI Application in C++
 
-This is a **C++ Command-Line Interface (CLI)** application created for the Programming Fundamentals course. It includes several interactive features such as a music player, scientific calculator, piano simulator, and more — all integrated into a single menu-driven program.
+This is a **C++ Command-Line Interface (CLI)** application created for the Programming Fundamentals course. It includes several interactive features such as a music player, scientific calculator, piano simulator, and more all integrated into a single menu-driven program.
 
 ---
 
